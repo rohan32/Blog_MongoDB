@@ -1,4 +1,7 @@
 # Blog_MongoDB
+Language used: JAVA
+DataBase used: MongoDB
+Front end: Freemarker(to make templates) using  html
 Step-1
 Run the server- cmd/mongod
 
